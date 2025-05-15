@@ -30,6 +30,8 @@
       "id": 1,
       "nombre": "Carlos Pérez",
       "profesion": "Doctor",
+      "experiencia": 5,
+      "horas": 40,
       "disponibilidad": {
         "09:00-10:00": true,
         "10:00-11:00": true,
@@ -40,6 +42,8 @@
       "id": 2,
       "nombre": "Ana Gómez",
       "profesion": "Ingeniera",
+      "experiencia": 3,
+      "horas": 30,
       "disponibilidad": {
         "09:00-10:00": true,
         "10:00-11:00": false,
@@ -50,6 +54,8 @@
       "id": 3,
       "nombre": "Juan Martínez",
       "profesion": "Profesor",
+      "experiencia": 10,
+      "horas": 20,
       "disponibilidad": {
         "09:00-10:00": true,
         "10:00-11:00": true,
@@ -60,6 +66,8 @@
       "id": 4,
       "nombre": "Lucía Fernández",
       "profesion": "Psicóloga",
+      "experiencia": 7,
+      "horas": 25,
       "disponibilidad": {
         "09:00-10:00": false,
         "10:00-11:00": true,
@@ -70,6 +78,8 @@
       "id": 5,
       "nombre": "Miguel Torres",
       "profesion": "Abogado",
+      "experiencia": 4,
+      "horas": 35,
       "disponibilidad": {
         "09:00-10:00": true,
         "10:00-11:00": false,
@@ -80,6 +90,8 @@
       "id": 6,
       "nombre": "Paula Ramírez",
       "profesion": "Diseñadora",
+      "experiencia": 2,
+      "horas": 15,
       "disponibilidad": {
         "09:00-10:00": true,
         "10:00-11:00": true,
@@ -90,6 +102,8 @@
       "id": 7,
       "nombre": "Diego Castro",
       "profesion": "Arquitecto",
+      "experiencia": 6,
+      "horas": 28,
       "disponibilidad": {
         "09:00-10:00": false,
         "10:00-11:00": true,
@@ -100,6 +114,8 @@
       "id": 8,
       "nombre": "Valeria Soto",
       "profesion": "Contadora",
+      "experiencia": 8,
+      "horas": 22,
       "disponibilidad": {
         "09:00-10:00": true,
         "10:00-11:00": false,
@@ -110,6 +126,8 @@
       "id": 9,
       "nombre": "Andrés Núñez",
       "profesion": "Dentista",
+      "experiencia": 9,
+      "horas": 18,
       "disponibilidad": {
         "09:00-10:00": false,
         "10:00-11:00": false,
@@ -120,6 +138,8 @@
       "id": 10,
       "nombre": "Camila Herrera",
       "profesion": "Enfermera",
+      "experiencia": 4,
+      "horas": 30,
       "disponibilidad": {
         "09:00-10:00": true,
         "10:00-11:00": true,
